@@ -11,8 +11,8 @@ The scripts in this repo give feedback on where the attacker is on the host comp
 
 ### Usage
 
-1. Start the server with ```python reverse_shell_server```
-2. When the ```reverse_shell_client``` is on the target computer just run ```python reverse_shell_client```
+1. Start the server with ```python reverse_shell_server.py```
+2. When the ```reverse_shell_client.py``` script is on the target computer just run ```python reverse_shell_client.py```
 3. Check the server script output and viola start using the remote shell.
 
 ## What it looks like
