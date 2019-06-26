@@ -15,5 +15,8 @@ The scripts in this repo give feedback on where the attacker is on the host comp
 2. When the ```reverse_shell_client.py``` script is on the target computer just run ```python reverse_shell_client.py```
 3. Check the server script output and viola start using the remote shell.
 
+#### Exiting
+To exit the shell, type ```terminate``` as a command and it will exit the client and the server connection. 
+
 ## What it looks like
 ![reverse](https://github.com/B2Gdevs/reverse_shell/blob/master/reverse_shell.PNG)
